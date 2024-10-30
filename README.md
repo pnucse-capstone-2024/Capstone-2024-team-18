@@ -34,6 +34,8 @@ LSM-TREE의 장점을 활용하여 대규모 데이터를 효율적으로 처리
 
 ##### 데이터베이스
 
+- Rust (version >= 1.74)
+
 ##### 클라이언트
 
 - React.js - React18
@@ -41,7 +43,26 @@ LSM-TREE의 장점을 활용하여 대규모 데이터를 효율적으로 처리
 
 ### 3. 설치 및 사용 방법
 
-#### 데이터베이스
+#### 데이터베이스 
+1. Clone the repo
+   ```
+   git clone https://github.com/pnucse-capstone-2024/Capstone-2024-team-18
+   ```
+2. Starter code
+   ```
+   cd cobblesDB-main/cobblesDB  
+   code .
+   ```
+3. Install Tools
+   ```
+   cargo x install-tools   
+   ```
+4. Run db server 
+   ```
+   cargo run --bin cobblesdb
+   ```
+  
+  
 
 #### 클라이언트
 
