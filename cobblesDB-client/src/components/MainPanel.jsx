@@ -46,7 +46,7 @@ const MainPanel = ({ keyValuePairs, queryResults }) => {
                 <div
                     style={{height: `${dataTableHeight}%`}}
                 >
-                    {keyValuePairs, keyValuePairs.length > 0 && (keyValuePairs[0].value != null) ? (
+                    {keyValuePairs && keyValuePairs.length > 0 && (keyValuePairs[0].value != null) ? (
                         <DataTable keyValuePairs={keyValuePairs} height={dataTableHeight}/>
                         ) : (
                     <div className="flex flex-col justify-center items-center h-full">
