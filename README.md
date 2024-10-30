@@ -79,17 +79,17 @@ module.exports = {
     <tr>
       <td align="center">
           <img src="https://avatars.githubusercontent.com/MilkTea24" width="100px;" alt="Kim Manjae"/><br />
-          <sub><b>클라이언트 개발<br/>Kim Manjae<br/>@MilkTea24</b></sub>
+          <sub><b>클라이언트 개발<br/>Kim Manjae<br/><a href="https://github.com/MilkTea24">@MilkTea24</a></b></sub>
         <br />
       </td>
       <td align="center">
-          <img src="https://avatars.githubusercontent.com/u/팀원1_ID" width="100px;" alt="FE 팀원 1"/><br />
-          <sub><b>FE 팀원 : 이름 1<br/>@FE_TeamMember1</b></sub>
+          <img src="https://avatars.githubusercontent.com/팀원1_ID" width="100px;" alt="FE 팀원 1"/><br />
+          <sub><b>FE 팀원 : 이름 1<br/><a href="https://github.com/팀원1_ID">@팀원1_ID</a></b></sub>
         <br />
       </td>
       <td align="center">
-          <img src="https://avatars.githubusercontent.com/u/팀원2_ID" width="100px;" alt="FE 팀원 2"/><br />
-          <sub><b>FE 팀원 : 이름 2<br/>@FE_TeamMember2</b></sub>
+          <img src="https://avatars.githubusercontent.com/팀원2_ID" width="100px;" alt="FE 팀원 2"/><br />
+          <sub><b>FE 팀원 : 이름 2<br/><a href="https://github.com/팀원2_ID">@팀원2_ID</a></b></sub>
         <br />
       </td>
     </tr>
