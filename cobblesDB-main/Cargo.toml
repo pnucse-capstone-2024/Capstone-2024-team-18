@@ -1,0 +1,17 @@
+[workspace]
+members = ["cobblesDB"]
+resolver = "2"
+
+[workspace.package]
+version = "0.2.0"
+edition = "2021"
+homepage = "https://github.com/cobblesDB/cobblesDB"
+keywords = ["storage", "database"]
+license = "Apache-2.0"
+repository = "https://github.com/cobblesDB/cobblesDB"
+
+[workspace.dependencies]
+anyhow = "1"
+bytes = "1"
+
+
