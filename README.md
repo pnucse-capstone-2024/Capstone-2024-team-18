@@ -104,13 +104,13 @@ module.exports = {
         <br />
       </td>
       <td align="center">
-          <img src="https://avatars.githubusercontent.com/팀원1_ID" width="100px;" alt="FE 팀원 1"/><br />
-          <sub><b>FE 팀원 : 이름 1<br/><a href="https://github.com/팀원1_ID">@팀원1_ID</a></b></sub>
+          <img src="https://avatars.githubusercontent.com/u/84135487?v=4" width="100px;" alt="Fan Jiangwei"/><br />
+          <sub><b>데이터베이스 개발<br/>Fan Jiangwei<br/><a href="https://github.com/jiangwel">@jiangwel</a></b></sub>
         <br />
       </td>
       <td align="center">
-          <img src="https://avatars.githubusercontent.com/팀원2_ID" width="100px;" alt="FE 팀원 2"/><br />
-          <sub><b>FE 팀원 : 이름 2<br/><a href="https://github.com/팀원2_ID">@팀원2_ID</a></b></sub>
+          <img src="https://avatars.githubusercontent.com/u/74716458?v=4" width="100px;" alt="Hu Kaifeng"/><br />
+          <sub><b>데이터베이스 개발<br/>Hu Kaifeng<br/><a href="https://github.com/Polaris-control">@HU kaifeng</a></b></sub>
         <br />
       </td>
     </tr>
